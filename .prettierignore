@@ -1,0 +1,7 @@
+node_modules
+dist
+build
+public
+.vscode
+.next
+assets/i18n/flowmarket-frontend-copywriter/*
